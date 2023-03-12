@@ -1,6 +1,9 @@
 ---
 layout: default
 title: My CS Projects
-permalink: /projects
+
 ---
-![alt text](/assets/resizepic.jpg)
+![alt text](/assets/newpic.jpg)
+
+
+My CS Projects
