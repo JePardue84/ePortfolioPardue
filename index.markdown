@@ -6,7 +6,7 @@ layout: default
 ---
 
 <div style="text-align: center; margin-top: -30px;">
-  <a href="/ePortfolioPardue/projects.md/" style="display: inline-block; width: 120px; margin: 0 20px; font-size: 25px;">CS&nbsp;Projects</a>
+  <a href="/ePortfolioPardue/projects/" style="display: inline-block; width: 120px; margin: 0 20px; font-size: 25px;">CS&nbsp;Projects</a>
   <a href="/ePortfolioPardue/resume/" style="display: inline-block; width: 120px; margin: 0 30px; font-size: 25px;">Resume</a>
   <a href="/contact.html" style="display: inline-block; width: 120px; margin: 0 20px; font-size: 25px;">Contact</a>
   <a href="/aviation.html" style="display: inline-block; width: 120px; margin: 0 20px; font-size: 25px;">Aviation</a>
