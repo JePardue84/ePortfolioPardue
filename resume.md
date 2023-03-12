@@ -1,6 +1,8 @@
 ---
 layout: default
+
+
+
 ---
 
-
-My CS
+My Resume
