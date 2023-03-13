@@ -27,7 +27,7 @@ layout: default
 </style>
 <div class="container">
   <img src="{{ site.baseurl }}/assets/newpic.jpg" alt="Profile Pic" style="float: right;">
-  <p>As I approach the end of my Bachelors degree in Computer Science with a concentration in software engineering, I am proud to say that I have been able to combine my two passions: aviation and technology. For over 10 years, I have been a certified EMS Helicopter pilot, flying patients to and from hospitals in some of the most challenging conditions.
+  <p>As I approach the end of my Bachelor's in Computer Science with a concentration in software engineering, I am proud to say that I have been able to combine my two passions: aviation and technology. For over 10 years, I have been a certified EMS Helicopter pilot, flying patients to and from hospitals in some of the most challenging conditions.
 
 Through my experiences in aviation, I have developed a deep appreciation for the power of technology and its ability to solve complex problems. I have seen firsthand the difference that advanced technology can make in saving lives and improving outcomes for patients. This has led me to pursue a career in software engineering, where I hope to use my skills and knowledge to make a similar impact in other industries.
 
