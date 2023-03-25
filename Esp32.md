@@ -5,16 +5,19 @@ permalink: "/esp32/"
 
 ---
 
-iOS esp32 Project
-
-Under Development!
+<figure class="container" style="margin-bottom: 200px;">
+  <img src="{{ site.baseurl }}/assets/UnderConst.png" alt="Body" style="display: block; margin: 0 auto; width: 100%; height: 100%;">
+  <figcaption style="text-align: center;">
+    <p class="description">Check Back Soon!</p>
+  </figcaption>
+</figure>
 
 <style>
   h2 {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
   }
   video {
-    margin-top: -10px;
+    margin-top: 40px;
     margin-bottom: 20px;
   }
 </style>
