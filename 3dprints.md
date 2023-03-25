@@ -31,7 +31,7 @@ permalink: "/3dprints/"
 
 <figure class="container">
   <h2>Printers</h2>
-  <img src="{{ site.baseurl }}/assets/printers.jpg" alt="Printers" style="display: block; margin: 0 auto; width: 50%; height: 50%;">
+  <img src="{{ site.baseurl }}/assets/printers.JPG" alt="Printers" style="display: block; margin: 0 auto; width: 50%; height: 50%;">
   <figcaption>
     <p class="description">I bought these used Creality Ender 3 Pro printers off eBay and they have been the platform for all my 3d prints. I rewrote the Marlin firmware for both of them and added a few upgrades I will define <a href="/ePortfolioPardue/here/">here</a>.</p>
   </figcaption>
