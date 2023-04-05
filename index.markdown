@@ -5,12 +5,11 @@
 layout: default
 ---
 
-<div style="text-align: center; margin-top: -30px; white-space: nowrap;">
-  <a href="/ePortfolioPardue/CSprojects/" style="display: inline-block; width: 120px; margin: 0 10px; font-size: 20px;">CS&nbsp;Projects</a>
-  <a href="/ePortfolioPardue/resume/" style="display: inline-block; width: 120px; margin: 0 10px; font-size: 20px;">Resume</a>
-  <a href="/ePortfolioPardue/contact/" style="display: inline-block; width: 120px; margin: 0 10px; font-size: 20px;">Contact</a>
-  <a href="/ePortfolioPardue/aviation/" style="display: inline-block; width: 120px; margin: 0 10px; font-size: 20px;">Aviation</a>
-  <a href="/ePortfolioPardue/3dprints/" style="display: inline-block; width: 120px; margin: 0 10px; font-size: 20px;">3D&nbsp;Prints</a>
+<div style="text-align: center; margin-top: -30px;font-size: -10px;">
+  <a href="/ePortfolioPardue/CSprojects/" style="display: inline-block; width: 120px; margin: 0 20px; font-size: 25px;">CS&nbsp;Projects</a>
+  <a href="/ePortfolioPardue/resume/" style="display: inline-block; width: 120px; margin: 0 30px; font-size: 25px;">Resume</a>
+  <a href="/ePortfolioPardue/aviation/" style="display: inline-block; width: 120px; margin: 0 20px; font-size: 25px;">Aviation</a>
+  <a href="/ePortfolioPardue/3dprints/" style="display: inline-block; width: 120px; margin: 0 20px; font-size: 25px;">3D&nbsp;Prints</a>
 </div>
 
 
