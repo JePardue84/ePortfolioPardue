@@ -3,7 +3,7 @@ layout: default
 permalink: "/listthis/"
 ---
 <div style="text-align: center; margin-top: -10px;margin-bottom: 60px;">
-  <span style="display: block; font-size: 30px; font-family: Monaco, 'Bitstream Vera Sans Mono', 'Lucida Console', Terminal;">List This!(Unenhanced)</span>
+  <span style="display: block; font-size: 30px; font-family: Monaco, 'Bitstream Vera Sans Mono', 'Lucida Console', Terminal;">List This!Lite(Unenhanced)</span>
 </div>
 
 
@@ -19,7 +19,7 @@ permalink: "/listthis/"
 
 <h2>Code Review: Software Design/Engineering</h2>
 <video width="640" height="360" controls>
-  <source src="{{ site.baseurl }}\assets\Software Design Engineering.mp4" type="video/mp4">
+  <source src="{{ site.baseurl }}\assets\SDEngineering.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
