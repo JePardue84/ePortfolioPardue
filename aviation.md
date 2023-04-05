@@ -43,15 +43,24 @@ permalink: "/aviation/"
     <li>Bell 407</li>
     <li>Robinson R22</li>
     <li>Robinson R44</li>
+    <li>Robinson R66</li>
+
   </ul>
 </figure>
 
 <figure class="container">
   <h2 style="margin: 0px;">Airplane</h2>
   <ul style="list-style-type: disc; text-align: left; display: inline-block;">
+    <li>Cessna 150</li>
     <li>Cessna 172</li>
-    <li>Cessna 206</li>
-    <li>Piper Cherokee</li>
-    <li>Mooney Super 21</li>
+    <li>Cessna 182</li>
+    <li>Cessna 210</li>
+    <li>Piper Cherokee PA28</li>
+    <li>Piper Cherokee Six PA32</li>
+    <li>Piper Twin Comanche PA30</li>
+    <li>Mooney M20E Super 21</li>
+    <li>Cirrus SR20</li>
+    <li>Cirrus SR22</li>
+
   </ul>
 </figure>
