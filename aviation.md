@@ -29,6 +29,9 @@ permalink: "/aviation/"
   .centered-list li {
     display: block;
   }
+  .container:first-child {
+    margin-bottom: -10px;
+  }
 </style>
 
 <figure class="container">
@@ -42,7 +45,6 @@ permalink: "/aviation/"
     <li>Robinson R44</li>
   </ul>
 </figure>
-<br>
 
 <figure class="container">
   <h2 style="margin: 0px;">Airplane</h2>
