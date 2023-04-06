@@ -36,4 +36,5 @@ permalink: "/listthis/"
 </video>
 
 
-Link to Github Project
+Look at this project on GitHub!
+[List This! Lite](https://github.com/JePardue84/ListThisLite.git)

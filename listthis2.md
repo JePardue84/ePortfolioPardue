@@ -59,4 +59,5 @@ permalink: "/listthis2/"
 
 </ul>
 
-Link to Github project
+Look at this project on GitHub!
+[List This!](https://github.com/JePardue84/ListThis.git)
