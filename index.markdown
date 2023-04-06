@@ -38,5 +38,6 @@ Throughout my academic and professional journey, I have learned the importance o
 Looking back on my journey so far, I am proud of what I have accomplished and excited for what lies ahead. I believe that my unique combination of experience in aviation and computer science gives me a valuable perspective and skill set that will serve me well in my future endeavors. I am grateful for the opportunities that I have had and for the support of my family and friends along the way.
 
 As I continue to pursue my passion for technology, I am confident that I will be able to make a meaningful difference in the world. Whether I am designing and developing software or flying patients to safety, I know that I am using my skills and knowledge to make a positive impact on the lives of others.
+
   </p>
 </div>
