@@ -25,8 +25,10 @@ permalink: "/listthis2/"
 <ul>
 
   <ul>
-    <li>Bulleted item 1</li>
-    <li>Bulleted item 2</li>
+    <li>Updated .xml file color scheme to differentiate from "List This! Lite" App</li>
+    <li>Xml files enhanced with specialized EditTexts for enhanced functionality and styling for text inputs</li>
+    <li>Further enhanced layout to correlate with a marketable inventory app</li>
+    <li>Incorporated layout for RecyclerView actvity to display inventory</li>
   </ul>
 
 </ul>
@@ -39,8 +41,10 @@ permalink: "/listthis2/"
 <ul class="enhancements">
 
   <ul>
-    <li>Bulleted item 1</li>
-    <li>Bulleted item 2</li>
+    <li>Enhanced Java files and eliminated unnecessary classes</li>
+    <li>Updated commenting to be more efficient</li>
+    <li>Incorporated Read and Delete functionality into Edit class for efficiency</li>
+    <li>Implemented ItemRVModal to use RecyclerView for displaying inventory</li>
   </ul>
 
 </ul>
@@ -53,8 +57,9 @@ permalink: "/listthis2/"
 <ul>
 
   <ul>
-    <li>Bulleted item 1</li>
-    <li>Bulleted item 2</li>
+    <li>Enhanced from SQLite to Firebase NoSQL platform</li>
+    <li>Implemented adapter class to control how inventory items are displayed from database</li>
+    <li>Transition from SQLite local database mechanism to cloud-based authentication service furthering security</li>
   </ul>
 
 </ul>
