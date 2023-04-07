@@ -20,13 +20,17 @@ permalink: "/listthis2/"
 </style>
 
 <h2>Code Review: Software Design/Engineering</h2>
+<video width="640" height="360" controls>
+  <source src="{{ site.baseurl }}\assets\sed.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <h3>Enhancements</h3>
 <ul>
 
   <ul>
     <li>Updated .xml file color scheme to differentiate from "List This! Lite" App</li>
-    <li>Xml files enhanced with specialized EditTexts for enhanced functionality and styling for text inputs</li>
+    <li>.xml files enhanced with specialized EditTexts for enhanced functionality and styling for text inputs</li>
     <li>Further enhanced layout to correlate with a marketable inventory app</li>
     <li>Incorporated layout for RecyclerView actvity to display inventory</li>
   </ul>
@@ -57,9 +61,9 @@ permalink: "/listthis2/"
 <ul>
 
   <ul>
-    <li>Enhanced from SQLite to Firebase NoSQL platform</li>
+    <li>Enhanced from SQLite to more efficient Firebase NoSQL platform</li>
     <li>Implemented adapter class to control how inventory items are displayed from database</li>
-    <li>Transition from SQLite local database mechanism to cloud-based authentication service furthering security</li>
+    <li>Transition from SQLite local database mechanism to cloud-based authentication service furthering security options</li>
   </ul>
 
 </ul>
