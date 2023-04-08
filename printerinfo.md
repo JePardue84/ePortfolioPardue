@@ -5,7 +5,7 @@ permalink: "/here/"
 
 Here are the steps to install custom Marlin firmware on a 32-bit Creality board.
 
-- Open preferred IDE (I used VS Code)
+- Open preferred IDE (I used Visual Studio)
 - Download Marlin Firmware and Configuration Examples
 - Copy Configuration Files to the Marlin Firmware Directory
 - Update the platformio.ini File

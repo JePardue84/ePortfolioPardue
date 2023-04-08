@@ -30,7 +30,7 @@ permalink: "/listthis2/"
 
   <ul>
     <li>Updated .xml file color scheme to differentiate from "List This! Lite" App</li>
-    <li>.xml files enhanced with specialized EditTexts for enhanced functionality and styling for text inputs</li>
+    <li>.xml files enhanced with specialized EditTexts for improved functionality and styling for text inputs</li>
     <li>Further enhanced layout to correlate with a marketable inventory app</li>
     <li>Incorporated layout for RecyclerView actvity to display inventory</li>
   </ul>
