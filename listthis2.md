@@ -39,7 +39,10 @@ permalink: "/listthis2/"
 <br>
 <br>
 <h2>Code Review: Algorithm and Data Structure</h2>
-
+<video width="640" height="360" controls>
+  <source src="{{ site.baseurl }}\assets\ags.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <h3>Enhancements</h3>
 <ul class="enhancements">
@@ -48,7 +51,7 @@ permalink: "/listthis2/"
     <li>Enhanced Java files and eliminated unnecessary classes</li>
     <li>Updated commenting to be more efficient</li>
     <li>Incorporated Read and Delete functionality into Edit class for efficiency</li>
-    <li>Implemented ItemRVModal to use RecyclerView for displaying inventory</li>
+
   </ul>
 
 </ul>
@@ -62,7 +65,7 @@ permalink: "/listthis2/"
 
   <ul>
     <li>Enhanced from SQLite to more efficient Firebase NoSQL platform</li>
-    <li>Implemented adapter class to control how inventory items are displayed from database</li>
+    <li>Implemented ItemRVModal to use RecyclerView for displaying inventory</li>
     <li>Transition from SQLite local database mechanism to cloud-based authentication service furthering security options</li>
   </ul>
 
