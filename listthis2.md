@@ -59,6 +59,11 @@ permalink: "/listthis2/"
 <br>
 
 <h2>Code Review: Database</h2>
+<video width="640" height="360" controls>
+  <source src="{{ site.baseurl }}\assets\db.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 <h3>Enhancements</h3>
 <ul>
